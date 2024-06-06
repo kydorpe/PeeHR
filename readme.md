@@ -16,10 +16,12 @@
 <br>
   
 <div align="center">
-  <img alt="PeeH-vscode" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  
   <img alt="PeeH-java" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="PeeH-vscode" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img  alt="PeeH-Js" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="PeeH-git" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
+  <img alt="PeeH-git" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />     
+  
 </div>
   
   ##
