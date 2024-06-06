@@ -1,8 +1,9 @@
 <h1> Olá, bem vindo(a) ao meu perfil! </h1>
-
+#
 <ul>
-  <li>🖥️ Estudando full Stack. </li>
-  <li>🔮 Materializando ideias em códigos desde 2024!</li>
+  <li>🖥️ Estudando Analise e desenvolvimento de sistemas.</li>
+  
+  <li>🔮 Materializando ideias em códigos desde 2023!</li>
 </ul>
 
 ##
