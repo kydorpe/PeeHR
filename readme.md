@@ -6,7 +6,7 @@
   <li>🔮 Materializando ideias em códigos desde 2023!</li>
 </ul>
 
-##
+#
 
 <br>
 <div align="center" display="inline-block">
